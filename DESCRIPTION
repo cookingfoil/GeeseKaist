@@ -1,0 +1,11 @@
+Package: GeeseKaist
+Type: Package
+Title: The number of geese in KAIST
+Version: 0.1.0
+Author: Eunji Park
+Maintainer: Eunji Park <eunji.park@kaist.ac.kr>
+Description: Geese in KAIST FOREVER
+License: none
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/cookinfoil/GeeseKaist

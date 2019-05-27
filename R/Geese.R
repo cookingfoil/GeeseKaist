@@ -1,0 +1,3 @@
+Geese <- function() {
+  data(Geese)
+}
