@@ -1,3 +1,0 @@
-Geese <- function() {
-  data(Geese)
-}
